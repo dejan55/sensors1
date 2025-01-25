@@ -6,15 +6,7 @@ FakeSMC is an open source SMC device driver/emulator developed by [netkas](http:
 
 ##### NOTE: FakeSMC & Plugins starting from v915 provide additional sensors information to HWMonitor on Macs. By installing FakeSMC on a real Mac you acknowledge that you know what you are doing and how to recover your system if something goes wrong.
 
-## Notes about this fork by RehabMan:
-
-Note: This version forked from kozlek's branch at: https://www.assembla.com/code/fakesmc/git/nodes 
-
-Download link for RehabMan builds:
-https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
-
-Older builds are archived here:
-https://code.google.com/p/os-x-fake-smc-kozlek/downloads/list
+## Notes about this fork by Dekson
 
 A note about the contents of the download:
 Debug/FakeSMC.kext - debug FakeSMC.kext + PlugIns (install for troubleshooting)
